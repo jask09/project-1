@@ -14,3 +14,78 @@ padding: 0;
 flex-direction: column;
 }
 
+h1 {
+    text-align: center;
+    color: green;
+    justify-content: center;
+}
+
+h2 {
+text-align: center;
+color: lime;
+}
+
+.slot-machine {
+width: 40%;
+height: 50%;
+display: flex;
+justify-items: stretch;
+align-items: center;
+align-content: center;
+border: 15px solid black;
+padding: 20px;
+border-radius: 10px;
+background-color: darkgreen;
+border-color: lightgreen;
+}
+
+#reel1 {
+height:50%;
+width: 30%;
+display: flex;
+justify-content: center;
+background-color: yellowgreen;
+margin: 10px;
+font-size: 22px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+}
+
+#reel2 {
+height: 50%;
+width: 30%;
+margin: 10px;
+display: flex;
+justify-content: center;
+background-color: yellowgreen;
+font-size: 22px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+}
+
+#reel3 {
+height: 50%;
+width: 30%;
+margin: 10px;
+display: flex;
+justify-content: center;
+background-color: yellowgreen;
+font-size: 22px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+color: white;
+}
+
+.spin-buuton {
+display: flex;
+align-self: flex-end;
+margin-right: 47%;
+margin-top: 5%;
+width: 70px;
+height: 40px;
+background-color: green;
+font-weight: bold;
+font-display: center;
+color: lime;
+border-radius: 18px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
