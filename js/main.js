@@ -42,7 +42,7 @@ function initSpin(){
     function renderJackpot(){
             if(result[0] === result[1] && result[0]
                 === result[2]){
-                        win.innerText = "JACKPOT!"
+                        win.innerText = "WINNER!"
                 }else{
                     win.innerText = "SPIN AGAIN"
                 }
