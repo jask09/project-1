@@ -11,3 +11,5 @@ To use the slot machine simulator, open the “index.html” file in a web brows
 
 >**Upcoming Features.**
 updating UX and animations
+
+![Alt text](image.png)
